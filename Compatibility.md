@@ -23,8 +23,8 @@ JavaScript
 - [ECMAScript 5 compatibility table](http://kangax.github.com/es5-compat-table/)
 - [ECMAScript 6 compatibility table](http://kangax.github.com/es5-compat-table/es6/)
 - [Load and error events on script and link](http://pieisgood.org/test/script-link-events/)
-
-
+- [Events Compatibility Table](http://www.quirksmode.org/dom/events/)
+- [DOM Compatibility Table](http://codylindley.com/dom-desktop-tests/)
 
 CSS
 ---
